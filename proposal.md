@@ -1,5 +1,5 @@
 # WAX: Workshop on Approximate Computing Across the Stack
-Proposal for Co-Location with ASPLOS 2018
+Proposal for Co-Location with PLDI 2019
 
 
 ## Organizing Committee
@@ -25,6 +25,7 @@ Proposal for Co-Location with ASPLOS 2018
 - WAX (merged) at FCRC/PLDI 2015: ~30, https://sampa.cs.washington.edu/wax2015
 - WAX at ASPLOS 2016: ~40, http://approximate.computer/wax2016/
 - WAX at ASPLOS 2017: ~30, http://approximate.computer/wax2017/
+- WAX at ASPLOS 2018: ~30, http://approximate.computer/wax2018/
 
 
 ## Sample CFP
