@@ -19,7 +19,7 @@ Here's a (tentative) timeline for the workshop:
 * May 10, 2019: position paper notification
 * June 22, 2019: WAX!
 
-[cfp]: http://approximate.computer/wax2018/cfp.html
+[cfp]: http://approximate.computer/wax2019/cfp.html
 [fcrc]: https://fcrc.acm.org
 [pldi 2019]: https://pldi19.sigplan.org
 [ulya]: http://people.ece.umn.edu/~ukarpuzc/Karpuzcu.html
