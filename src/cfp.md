@@ -44,10 +44,8 @@ We especially encourage talks with live demos of applications and working tools.
 
 Papers should use [the formatting guidelines for SIGPLAN conferences][sigplanconf] (the `acmart` format with the `sigplan` two-column option) and not exceed 2 pages, excluding references. Review is single-blind, so please include authors' names on the submitted PDF.
 
+Paper submission will be via HotCRP (link forthcoming).
 
-Submit your papers [via HotCRP][hotcrp].
-
-[hotcrp]: http://www.cs.cornell.edu/conferences/wax2018/
 [pc]: #program-committee
 [sigplanconf]: http://www.sigplan.org/Resources/Author/
 
@@ -57,10 +55,6 @@ WAX will feature a session for short talks in the morning that present a single 
 
 Lightning talks will not be peer reviewed. We will vet slides ahead of time to ensure that they are on topic, but there will be no full review process.
 
-Please send slides for lightning talks (in .pdf or .ppt(x) format) to [Hank Hoffmann][hank-email] (please use subject "WAX 2018 Lightning Talk Proposal").
-
-[hank-email]: mailto:hankhoffmann@cs.uchicago.edu
-
 #### Discussion Topics
 
 The WAX program will feature a debate among the attendees. We need your help building a list of controversial topics to serve as grist for the discussion mill.
@@ -69,33 +63,18 @@ Please submit a sentence or two about an open problem, philosophical question, o
 
 Add your topic suggestions by editing [this wiki page][topics] on GitHub.
 
-[topics]: https://github.com/cucapra/wax2018/wiki/Discussion-Topics
-
+[topics]: https://github.com/cucapra/wax2019/wiki/Discussion-Topics
 
 ### Deadlines and Important Dates
 
-- **3/25** WAX!
-- **3/5**  Due date for lightning talks, discussion topics, and camera-ready position papers.
-- **2/19** Notification for position papers.
-- ~~**1/29**~~ **Extended to: 2/5** Submission deadline for 2-page position papers.
+The dates are TBA.
 
 ### Program Committee
 
-The program chair for WAX 2018 is [Hank Hoffmann][hank].
+The program chair for WAX 2019 is [Ulya R. Karpuzcu][ulya].
+The program committee is TBA.
 
-The program committee is:
-* [Emery Berger](http://www.emeryberger.org/), University of Massachusetts Amherst
-* [Nikil Dutt](http://www.ics.uci.edu/~dutt), UC Irvine
-* [Ravi Iyer](https://www.linkedin.com/in/ravi-iyer-6876793)
-* [Ulya R. Karpuzcu](http://people.ece.umn.edu/~ukarpuzc/Karpuzcu.html), University of Minnesota
-* [Samira Khan](http://www.cs.virginia.edu/~smk9u/), University of Virginia
-* [Santosh Nagarakatte](https://www.cs.rutgers.edu/~santosh.nagarakatte/), Rutgers
-* [John Sartori](http://people.ece.umn.edu/users/jsartori/), University of Minnesota
-* [Ioana Vatajelu](http://tima.univ-grenoble-alpes.fr/tima/en/timalaboratory/persopage_id1802.html), Grenoble INP
-
-
-
-[hank]: http://people.cs.uchicago.edu/~hankhoffmann/
+[ulya]: http://people.ece.umn.edu/~ukarpuzc/Karpuzcu.html
 
 ### Organization
 
@@ -110,14 +89,16 @@ The WAX steering committee is:
 
 ### Previous Iterations
 
-WAX 2018 succeeds three previous workshops over the last two years:
+WAX 2019 succeeds six previous workshops over the last five years:
 
+* [WAX 2018][], at ASPLOS
 * [WAX 2017][], at ASPLOS
 * [WAX 2016][], at ASPLOS
 * [WAX 2015][], at FCRC
 * [WACAS 2014][], at ASPLOS
 * [APPROX 2014][], at PLDI
 
+[wax 2018]: http://approximate.computer/wax2018/
 [wax 2017]: http://approximate.computer/wax2017/
 [wax 2016]: http://approximate.computer/wax2016/
 [wax 2015]: http://sampa.cs.washington.edu/new/wax2015/
