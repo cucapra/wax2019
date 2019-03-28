@@ -72,7 +72,22 @@ The dates are TBA.
 ### Program Committee
 
 The program chair for WAX 2019 is [Ulya R. Karpuzcu][ulya].
-The program committee is TBA.
+The program committee consists of:
+
+- [Ismail Akturk](http://faculty.missouri.edu/akturki/),
+  University of Missouri—Columbia
+- [Iris Bahar](https://vivo.brown.edu/display/rbahar),
+  Brown University
+- [Alexandros Daglis](https://www.cc.gatech.edu/~adaglis3/),
+  Georgia Tech
+- [Eva Darulova](https://people.mpi-sws.org/~eva/),
+  MPI-SWS
+- [Nikos Hardavellas](http://users.eecs.northwestern.edu/~hardav/),
+  Northwestern University
+- [Andreas Gerstlauer](http://users.ece.utexas.edu/~gerstl/),
+  UT Austin
+- [Jack Sampson](http://www.cse.psu.edu/~jms1257/),
+  Penn State
 
 [ulya]: http://people.ece.umn.edu/~ukarpuzc/Karpuzcu.html
 
