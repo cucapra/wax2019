@@ -74,6 +74,8 @@ The dates are TBA.
 The program chair for WAX 2019 is [Ulya R. Karpuzcu][ulya].
 The program committee consists of:
 
+- [Sara Achour](http://people.csail.mit.edu/sachour/),
+  MIT
 - [Ismail Akturk](http://faculty.missouri.edu/akturki/),
   University of Missouri—Columbia
 - [Iris Bahar](https://vivo.brown.edu/display/rbahar),
