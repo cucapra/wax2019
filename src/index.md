@@ -15,7 +15,7 @@ Check out the [call for participation][cfp].
 
 Here's a (tentative) timeline for the workshop:
 
-* April 22, 2019: position papers due
+* May 1, 2019: position papers due [via HotCRP][hotcrp]
 * May 10, 2019: position paper notification
 * June 22, 2019: WAX!
 
@@ -23,3 +23,4 @@ Here's a (tentative) timeline for the workshop:
 [fcrc]: https://fcrc.acm.org
 [pldi 2019]: https://pldi19.sigplan.org
 [ulya]: http://people.ece.umn.edu/~ukarpuzc/Karpuzcu.html
+[hotcrp]: https://www.cs.cornell.edu/conferences/wax2019/

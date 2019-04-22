@@ -44,10 +44,11 @@ We especially encourage talks with live demos of applications and working tools.
 
 Papers should use [the formatting guidelines for SIGPLAN conferences][sigplanconf] (the `acmart` format with the `sigplan` two-column option) and not exceed 2 pages, excluding references. Review is single-blind, so please include authors' names on the submitted PDF.
 
-Paper submission will be via HotCRP (link forthcoming).
+Paper submission will is [via HotCRP][hotcrp].
 
 [pc]: #program-committee
 [sigplanconf]: http://www.sigplan.org/Resources/Author/
+[hotcrp]: https://www.cs.cornell.edu/conferences/wax2019/
 
 #### Lightning Talks
 
