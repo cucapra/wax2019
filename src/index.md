@@ -16,7 +16,7 @@ Check out the [call for participation][cfp].
 Here's a (tentative) timeline for the workshop:
 
 * May 1, 2019: position papers due [via HotCRP][hotcrp]
-* May 10, 2019: position paper notification
+* May 23, 2019: position paper notification
 * June 22, 2019: WAX!
 
 [cfp]: http://approximate.computer/wax2019/cfp.html
