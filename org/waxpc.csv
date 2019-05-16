@@ -1,12 +1,12 @@
-name,affiliation,email,role
-Sara Achour,MIT,sachour@csail.mit.edu,
-Ismail Akturk,University of Missouri—Columbia,akturki@missouri.edu,
-Iris Bahar,Brown University,iris_bahar@brown.edu,
-Alexandros Daglis,Georgia Tech,alexandros.daglis@cc.gatech.edu,
-Eva Darulova,MPI-SWS,eva@mpi-sws.org,
-Nikos Hardavellas,Northwestern University,nikos@northwestern.edu,
-Jack Sampson,Penn State,sampson@cse.psu.edu,
-Andreas Gerstlauer,UT Austin,gerstl@ece.utexas.edu,
+name,affiliation,email,roles
+Sara Achour,MIT,sachour@csail.mit.edu,pc
+Ismail Akturk,University of Missouri—Columbia,akturki@missouri.edu,pc
+Iris Bahar,Brown University,iris_bahar@brown.edu,pc
+Alexandros Daglis,Georgia Tech,alexandros.daglis@cc.gatech.edu,pc
+Eva Darulova,MPI-SWS,eva@mpi-sws.org,pc
+Nikos Hardavellas,Northwestern University,nikos@northwestern.edu,pc
+Jack Sampson,Penn State,sampson@cse.psu.edu,pc
+Andreas Gerstlauer,UT Austin,gerstl@ece.utexas.edu,pc
 Ulya Karpuzcu,University of Minnesota,ukarpuzc@umn.edu,chair
 Michael Carbin,MIT,mcarbin@csail.mit.edu,chair
 Luis Ceze,University of Washington,luisceze@cs.washington.edu,chair
