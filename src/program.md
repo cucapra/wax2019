@@ -10,9 +10,9 @@ layout: layout.html
 
 **9:00--9:15am**: Opening and introductions
 
-**9:15--10:00am**: Keynote: [Song Han][songhan], MIT
+**9:15--10:00am**: Keynote: [Song Han][han], MIT
 
-[songhan]: https://songhan.mit.edu/
+[han]: https://songhan.mit.edu/
 
 **10:00-11:00**: Position Papers
 
@@ -32,9 +32,13 @@ Talks are 10 minutes each. There will be a short period for clarification questi
 
 **11:00--11:20am**: Break
 
-**11:20--noon**: (Talk session title)
+**11:20--noon**: Invited Talks
 
-2 talks (2 papers)
+* [Yipeng Huang][huang], Princeton
+* [Yongjoo Park][park], University of Michigan, Ann Arbor
+
+[huang]: http://yipenghuang.com/
+[park]: https://yongjoopark.com/
 
 **noon--1:30pm**: Lunch
 
