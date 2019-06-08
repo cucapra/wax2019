@@ -10,13 +10,25 @@ layout: layout.html
 
 **9:00--9:15am**: Opening and introductions
 
-**9:15--10:00am**: Keynote
+**9:15--10:00am**: Keynote: [Song Han][songhan], MIT
 
-**10:00-11:00**: (Talk session title)
+[songhan]: https://songhan.mit.edu/
+
+**10:00-11:00**: Position Papers
 
 Talks are 10 minutes each. There will be a short period for clarification questions after each talk and a longer, themed discussion period at the end of the session.
 
-3 talks (2 papers + 1 invited?)
+- **NAP: Noise-Based Sensitivity Analysis for Programs.**
+  Jesse Michel (Massachusetts Institute of Technology); Sahil Verma (IIT Kanpur); Ben Sherman, Michael Carbin (Massachusetts Institute of Technology).
+
+- **Approximate Checkers.**
+  Abdulrahman Mahmoud, Paul Reckamp, Panqiu Tang, Christopher W. Fletcher, Sarita V. Adve (UIUC).
+
+- **Co-Optimization of Optics, Architecture, and Vision Algorithms.**
+  Samual Triest, Daniel Nikolov, Jannick Rolland, Yuhao Zhu (University of Rochester).
+
+- **Identifying Optimal Parameters for Approximate Randomized Algorithms.**
+  Vimuth Fernando, Keyur Joshi, Darko Marinov, Sasa Misailovic (UIUC).
 
 **11:00--11:20am**: Break
 
