@@ -1,6 +1,7 @@
 ---
 title: "Draft Program"
 layout: layout.html
+order: 1
 ---
 
 ## WAX 2019 Program
