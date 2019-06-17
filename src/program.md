@@ -15,7 +15,7 @@ order: 1
 
 [han]: https://songhan.mit.edu/
 
-**10:15-11:00**: Talks I
+**10:15--11:00**: Talks I
 
 Talks for position papers are 10 minutes each. There will be a short period for clarification questions after each talk and a longer, themed discussion period at the end of the session.
 
