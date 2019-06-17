@@ -11,13 +11,13 @@ order: 1
 
 **9:00--9:15am**: Opening and introductions
 
-**9:15--10:00am**: Keynote: [Song Han][han], MIT
+**9:15--10:15am**: Keynote: [Song Han][han], MIT
 
 [han]: https://songhan.mit.edu/
 
-**10:00-11:00**: Position Papers
+**10:15-11:00**: Talks I
 
-Talks are 10 minutes each. There will be a short period for clarification questions after each talk and a longer, themed discussion period at the end of the session.
+Talks for position papers are 10 minutes each. There will be a short period for clarification questions after each talk and a longer, themed discussion period at the end of the session.
 
 - **NAP: Noise-Based Sensitivity Analysis for Programs.**
   Jesse Michel (Massachusetts Institute of Technology); Sahil Verma (IIT Kanpur); Ben Sherman, Michael Carbin (Massachusetts Institute of Technology).
@@ -28,12 +28,16 @@ Talks are 10 minutes each. There will be a short period for clarification questi
 - **Co-Optimization of Optics, Architecture, and Vision Algorithms.**
   Samual Triest, Daniel Nikolov, Jannick Rolland, Yuhao Zhu (University of Rochester).
 
+**11:00--11:20am**: Break
+
+**11:20--12:30pm**: Invited Talks
+
+Position paper (10-minute talk):
+
 - **Identifying Optimal Parameters for Approximate Randomized Algorithms.**
   Vimuth Fernando, Keyur Joshi, Darko Marinov, Sasa Misailovic (UIUC).
 
-**11:00--11:20am**: Break
-
-**11:20--noon**: Invited Talks
+Invited talks (25-minute talks):
 
 * [Yipeng Huang][huang], Princeton
 * [Yongjoo Park][park], University of Michigan, Ann Arbor
@@ -41,6 +45,6 @@ Talks are 10 minutes each. There will be a short period for clarification questi
 [huang]: http://yipenghuang.com/
 [park]: https://yongjoopark.com/
 
-**noon--1:30pm**: Lunch
+**12:30pm--1:30pm**: Lunch
 
 **1:30--2:30pm**: Discussion
