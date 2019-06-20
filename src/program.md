@@ -19,13 +19,13 @@ order: 1
 
 Talks for position papers are 10 minutes each. There will be a short period for clarification questions after each talk and a longer, themed discussion period at the end of the session.
 
-- **NAP: Noise-Based Sensitivity Analysis for Programs.**
+- [NAP: Noise-Based Sensitivity Analysis for Programs.][michel]  
   Jesse Michel (Massachusetts Institute of Technology); Sahil Verma (IIT Kanpur); Ben Sherman, Michael Carbin (Massachusetts Institute of Technology).
 
-- **Approximate Checkers.**
+- [Approximate Checkers.][mahmoud]  
   Abdulrahman Mahmoud, Paul Reckamp, Panqiu Tang, Christopher W. Fletcher, Sarita V. Adve (UIUC).
 
-- **Co-Optimization of Optics, Architecture, and Vision Algorithms.**
+- [Co-Optimization of Optics, Architecture, and Vision Algorithms.][triest]  
   Samual Triest, Daniel Nikolov, Jannick Rolland, Yuhao Zhu (University of Rochester).
 
 **11:00--11:20am**: Break
@@ -34,8 +34,13 @@ Talks for position papers are 10 minutes each. There will be a short period for 
 
 Position paper (10-minute talk):
 
-- **Identifying Optimal Parameters for Approximate Randomized Algorithms.**
+- [Identifying Optimal Parameters for Approximate Randomized Algorithms.][fernando]  
   Vimuth Fernando, Keyur Joshi, Darko Marinov, Sasa Misailovic (UIUC).
+
+[fernando]: papers/fernando.pdf
+[triest]: papers/triest.pdf
+[mahmoud]: papers/mahmoud.pdf
+[michel]: papers/michel.pdf
 
 Invited talks (25-minute talks):
 
