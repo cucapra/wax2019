@@ -1,5 +1,5 @@
 ---
-title: "Draft Program"
+title: "Program"
 layout: layout.html
 order: 1
 ---
