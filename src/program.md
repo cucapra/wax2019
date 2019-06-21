@@ -44,8 +44,15 @@ Position paper (10-minute talk):
 
 Invited talks (25-minute talks):
 
-* [Yipeng Huang][huang], Princeton
-* [Yongjoo Park][park], University of Michigan, Ann Arbor
+**TK**  
+[Yipeng Huang][huang], Princeton
+
+**Approximation is Bliss: approximate computing in database systems.**  
+[Yongjoo Park][park], University of Michigan, Ann Arbor
+  
+*Abstract:*  Despite advances in computing power, the cost of large-scale data analytics and machine learning remains daunting to small and large enterprises alike. In tackling this issue, sampling-based approximate computing provides an appealing solution: we can offer 100x cheaper data analytics at 0.1% accuracy loss, exploiting the results of asymptotic statistics. In this talk, I discuss what systems limitations are in bringing this attractive benefit to actual data analysts; then, I present our recent effort to overcome them.
+
+[Yongjoo Park][park] is a Research Fellow in Computer Science and Engineering at the University of Michigan, Ann Arbor. His research interest is software systems for fast data analytics and machine learning. He received a Ph.D. from the University of Michigan, advised by Michael Cafarella and Barzan Mozafari. He is a recipient of 2018 ACM SIGMOD Jim Gray Dissertation Award Runner-up, Kwanjeong Ph.D. Fellowship, and Jeongsong Graduate Study Fellowship.
 
 [huang]: http://yipenghuang.com/
 [park]: https://yongjoopark.com/
