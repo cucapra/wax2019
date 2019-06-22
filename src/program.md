@@ -7,7 +7,7 @@ order: 1
 ## WAX 2019 Program
 
 ### Saturday, June 22, 2019
-### Location TBD
+### Room 105C
 
 **9:00--9:15am**: Opening and introductions
 
